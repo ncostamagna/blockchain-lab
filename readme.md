@@ -1,7 +1,9 @@
 # Blockchain
-they have information, hash (block identidication) and previous hash block (with this each block is connected with the others blocks)
+they have information, hash (block identidication) and previous hash block (with this each block is connected with the others blocks), it's a decentralized architecture.
 <br />
-<img src="images/1.png" />
+<img src="images/1.png" /> <br />
+<img src="images/2.png" /> <br />
+<img src="images/3.jpg" /> <br />
 
 ## Hash
 it is a block id, but there are many eyes see this. The hash is created with the block content, if the block contect is changed the hash will be changed too.
