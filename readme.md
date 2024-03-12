@@ -5,6 +5,14 @@ they have information, hash (block identidication) and previous hash block (with
 <img src="images/2.png" /> <br />
 <img src="images/3.jpg" /> <br />
 
+
+## Public
+Without the need to do permission (Permissionless), such as, Bitcoin, Ethereum or Litecoin
+
+## Private
+administrator, it is hanldered by a business.
+This business allows that who are the nodes, some examples are: Ripple or Hyperledger
+
 ## Hash
 it is a block id, but there are many eyes see this. The hash is created with the block content, if the block contect is changed the hash will be changed too.
 <br />
